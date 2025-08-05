@@ -11,9 +11,12 @@
 
 ## BIO-DATA TABLE
 
-____________________
-|Age|21|
------------
-|Religion|Islam
 
+|Age        |21   |
+|-----------|-----|
+|Religion   |Islam|
+|-----------|-----|
+|Nationality|BD   |
+|-----------|-----|
+|Passion    |Football|
  
