@@ -14,9 +14,7 @@
 
 |Age        |21   |
 |:----------|-----:|  
-|Religion   |Islam|
- |          |     | 
+|Religion   |Islam| 
 |Nationality|BD   |
-|            |      |
 |Passion    |Football|
  
