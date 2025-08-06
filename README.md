@@ -13,7 +13,7 @@
 
 
 |Age        |21   |
-|            |    |  
+|:----------|-----:|  
 |Religion   |Islam|
  |          |     | 
 |Nationality|BD   |
