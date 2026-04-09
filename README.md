@@ -16,10 +16,14 @@ I'm a **Frontend Web Developer** dedicated to building responsive, user-friendly
 * 🤝 Open to: **Collaborations on Open Source Projects**
 
 ---
+
+
 ### ✒ Academic
 * Currently Studying At **Leading University Sylhet**
-*IELTS Score: *7.5*
-*HSC: **5.00 GPA**
+* IELTS Score: *7.5*
+* HSC: **5.00 GPA**
+
+  
 ---
 
 
