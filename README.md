@@ -12,7 +12,7 @@
 I'm a **Frontend Web Developer** dedicated to building responsive, user-friendly, and visually stunning web applications. I love turning complex problems into elegant solutions through code.
 
 * 🚀 Currently exploring: **Advanced React & Next.js**
-* 🎨 Passionate about: **UI/UX Design & Animations**
+* 🎨 Passionate about: **Programming**
 * 🤝 Open to: **Collaborations on Open Source Projects**
 
 ---
