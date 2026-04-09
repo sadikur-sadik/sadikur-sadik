@@ -1,4 +1,44 @@
-<h1 align="center">Hi 👋, I'm Sadikur Rahman Sadik</h1>
+
+<img width="1584" height="672" alt="Gemini_Generated_Image_s41puus41puus41p" src="https://github.com/user-attachments/assets/bbb956b6-1091-4ec3-bf46-cff697ee8a42" />
+
+# Hello there! 👋 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Guys!;This+is+Sadikur+Rahman;Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Web+Developer" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+I'm a **Frontend Web Developer** dedicated to building responsive, user-friendly, and visually stunning web applications. I love turning complex problems into elegant solutions through code.
+
+* 🚀 Currently exploring: **Advanced React & Next.js**
+* 🎨 Passionate about: **UI/UX Design & Animations**
+* 🤝 Open to: **Collaborations on Open Source Projects**
+
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📬 Connect with me
+[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL) | [Twitter](YOUR_TWITTER_URL)
 <h3 align="center">I am Learning MERN stack web development.</h3>
 
 <h3 align="left">Connect with me:</h3>
