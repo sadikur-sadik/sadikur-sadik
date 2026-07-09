@@ -1,7 +1,7 @@
 <img width="100%" alt="Sadikur Rahman Banner" src="https://i.ibb.co.com/gLn0QPY5/magic-edit-TUFITz-Rh-SC1-Gdj-Aj-MSMy-Yj-Vm-MTc5-Zm-E2-ZDdl-MWI2-NTk0-Yz-Az-NDBh-N2-My-YTE4-MSMx-NTY4-Iy-NUUk.png" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Guys!;This+is+Sadikur+Rahman+Sadik;Welcome+to+my+GitHub+profile!;I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Guys!;This+is+Sadikur+Rahman;Welcome+to+my+GitHub+profile!;I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,13 +9,15 @@
 ### 👨‍💻 About Me
 I'm a **Full-Stack Web Developer** passionate about building fast, scalable, and visually stunning web applications. I specialize in the modern JavaScript/TypeScript ecosystem, bridging the gap between clean frontend user interfaces and robust backend architectures.
 
-* 🚀 Currently mastering: **Next.js & Advanced TypeScript architectures**
-* 🎨 Passionate about: **UI/UX Design, Fluent Animations, and Clean Code Practices**
-* 🤝 Open to: **Collaborations on Open Source Projects & Professional Full-Stack Ventures**
+* 🚀 **Current Activities:** 
+  * I am exploring **Next.js** and mastering advanced TypeScript architectures.
+  * I’m currently working on a **E-Commerce** project.
+* 🎨 **Passionate about:** UI/UX Design, Fluent Animations, and Clean Code Practices
+* 🤝 **Open to:** Collaborations on Open Source Projects & Professional Full-Stack Ventures
 
 ---
 
-### 🛠 Core Competencies
+### 🛠️ Core Competencies
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -34,7 +36,7 @@ I'm a **Full-Stack Web Developer** passionate about building fast, scalable, and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -53,7 +55,7 @@ I'm a **Full-Stack Web Developer** passionate about building fast, scalable, and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+    <img src="https://svgshare.com/i/15Y4.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
