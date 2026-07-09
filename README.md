@@ -1,4 +1,4 @@
-<img width="1584" height="672" alt="Sadikur Rahman Banner" src="https://github.com/user-attachments/assets/bbb956b6-1091-4ec3-bf46-cff697ee8a42" />
+<img width="100%" alt="Sadikur Rahman Banner" src="https://github.com/user-attachments/assets/bbb956b6-1091-4ec3-bf46-cff697ee8a42" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Guys!;This+is+Sadikur+Rahman+Sadik;Welcome+to+my+GitHub+profile!;I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" />
@@ -7,22 +7,26 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **Full-Stack Web Developer** passionate about building fast, scalable, and visually stunning web applications. I specialize in the modern JavaScript ecosystem, bridging the gap between clean frontend user interfaces and robust backend architectures.
+I'm a **Full-Stack Web Developer** passionate about building fast, scalable, and visually stunning web applications. I specialize in the modern JavaScript/TypeScript ecosystem, bridging the gap between clean frontend user interfaces and robust backend architectures.
 
-* 🚀 Currently mastering: **Next.js & TypeScript**
-* 🎨 Passionate about: **UI/UX Design, Animations, and Clean Architecture**
-* 🤝 Open to: **Collaborations on Open Source Projects & Full-Stack Ventures**
+* 🚀 Currently mastering: **Next.js & Advanced TypeScript architectures**
+* 🎨 Passionate about: **UI/UX Design, Fluent Animations, and Clean Code Practices**
+* 🤝 Open to: **Collaborations on Open Source Projects & Professional Full-Stack Ventures**
 
 ---
 
-### ✒ Academic
-* Currently Studying At **Leading University Sylhet**
-* IELTS Score: **7.5**
-* HSC: **5.00 GPA**
-  
+### 🛠 Core Competencies
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3 |
+| **Backend & APIs** | Node.js, Express.js, RESTful APIs, MVC Architecture |
+| **Database** | MongoDB, Mongoose ODM |
+| **Tools & DevOps** | Git, GitHub, Git Workflow, Canva |
+
 ---
 
-### 🛠 Languages and Tools
+### 🧰 Languages and Tools
 
 <p align="left">
   <!-- Frontend -->
@@ -41,12 +45,6 @@ I'm a **Full-Stack Web Developer** passionate about building fast, scalable, and
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
   
   <br />
 
@@ -62,6 +60,25 @@ I'm a **Full-Stack Web Developer** passionate about building fast, scalable, and
   </a>
 </p>
 
+---
+
+### 📊 GitHub Metrics & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadikur-rahman-sadik&theme=tokyonight&hide_border=true" alt="sadikur-rahman-sadik's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadikur-rahman-sadik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sadikur-rahman-sadik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikur-rahman-sadik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### ✒ Academic Background
+* 🎓 Currently pursuing higher education at **Leading University, Sylhet**
+* 🌐 IELTS Academic Score: **7.5** (Listening & Reading: **8.0**)
+* 🏆 Higher Secondary Certificate (HSC): **GPA 5.00**
+  
 ---
 
 ### 🌐 Connect with me
