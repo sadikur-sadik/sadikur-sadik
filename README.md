@@ -1,4 +1,4 @@
-<img width="100%" alt="Sadikur Rahman Banner" src="https://github.com/user-attachments/assets/bbb956b6-1091-4ec3-bf46-cff697ee8a42" />
+<img width="100%" alt="Sadikur Rahman Banner" src="https://i.ibb.co.com/VYqxm8z8/magic-edit-TUFITz-RSNVJJUHMj-MSNl-Yj-Bk-Mz-Yw-OGM3-N2-U4-Mj-Ax-Nm-E1-Zjlj-Yj-Bi-Nm-Nl-ZDU4-ZSMx-NTg2-Iy-NU.png" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Guys!;This+is+Sadikur+Rahman+Sadik;Welcome+to+my+GitHub+profile!;I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" />
@@ -58,18 +58,6 @@ I'm a **Full-Stack Web Developer** passionate about building fast, scalable, and
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Metrics & Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadikur-rahman-sadik&theme=tokyonight&hide_border=true" alt="sadikur-rahman-sadik's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadikur-rahman-sadik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sadikur-rahman-sadik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikur-rahman-sadik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
