@@ -1,4 +1,4 @@
-<img width="100%" alt="Sadikur Rahman Banner" src="https://i.ibb.co.com/VYqxm8z8/magic-edit-TUFITz-RSNVJJUHMj-MSNl-Yj-Bk-Mz-Yw-OGM3-N2-U4-Mj-Ax-Nm-E1-Zjlj-Yj-Bi-Nm-Nl-ZDU4-ZSMx-NTg2-Iy-NU.png" />
+<img width="100%" alt="Sadikur Rahman Banner" src="https://i.ibb.co.com/gLn0QPY5/magic-edit-TUFITz-Rh-SC1-Gdj-Aj-MSMy-Yj-Vm-MTc5-Zm-E2-ZDdl-MWI2-NTk0-Yz-Az-NDBh-N2-My-YTE4-MSMx-NTY4-Iy-NUUk.png" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Guys!;This+is+Sadikur+Rahman+Sadik;Welcome+to+my+GitHub+profile!;I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" />
@@ -20,8 +20,8 @@ I'm a **Full-Stack Web Developer** passionate about building fast, scalable, and
 | Layer | Technologies |
 | :--- | :--- |
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3 |
-| **Backend & APIs** | Node.js, Express.js, RESTful APIs, MVC Architecture |
-| **Database** | MongoDB, Mongoose ODM |
+| **Backend & APIs** | Node.js, Express.js, RESTful APIs |
+| **Database** | MongoDB |
 | **Tools & DevOps** | Git, GitHub, Git Workflow, Canva |
 
 ---
